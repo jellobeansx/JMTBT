@@ -1,5 +1,5 @@
 # Multi-Team Battle Mod API
-##Author: Jellobenes
+## Author: Jellobenes  
 This plugin now exposes a stable API for both:
 
 - BepInEx mods (C#): `MultiTeamBattle.MultiTeamBattleApi`
