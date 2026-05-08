@@ -1,5 +1,5 @@
 # Multi-Team Battle Mod API
-##Author: Jellobenes
+## Author: Jellobenes
 
 - BepInEx mods (C#): `MultiTeamBattle.MultiTeamBattleApi`
 - RavenScript mutators: `MultiTeamBattle` wrapper (`Lua.Wrapper.WMultiTeamBattle`)
